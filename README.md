@@ -8,6 +8,8 @@
 • Demo Link : https://datastudio.google.com/reporting/4fe6a55f-bc16-4fdf-883d-264ed54fc482
 • Website Link : https://datastudio.google.com/
 
+![Image](redme_resources/dashbaord.png)
+
 # Resource 
 
 • I create a covid 19 dashboard which is simple and easy to understandable, for this, I used data from Johns Hopkins University (JHU) data, which is store in github.
